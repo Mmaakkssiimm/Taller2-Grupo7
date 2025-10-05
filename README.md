@@ -2,6 +2,8 @@
 
 # FidelizaBot — Sistema de Fidelización
 
+# EL DIAGRAMA DE CLASES SE ENCUENTRA MÁS ABAJO EN EL README!!!!
+
 FidelizaBot es un sistema de puntos y recompensas desarrollado en Python como parte del taller de Programación Orientada a Objetos.
 El proyecto aplica los principios de herencia, polimorfismo y persistencia mediante una base de datos SQLite, permitiendo registrar clientes, acumular puntos por compras, asignar niveles (Bronce, Plata, Oro) y redimir recompensas.
 
@@ -25,9 +27,13 @@ SQLite
 
 Programación Orientada a Objetos (POO)
 
-## Autores
-Manuela Arango, Maria Paula Gasca, Maksim Nagi
-Proyecto académico — Universidad de La Sabana, 2025.
+## Diagrama de clases
 
 <img width="3840" height="3698" alt="Untitled diagram _ Mermaid Chart-2025-10-05-192345" src="https://github.com/user-attachments/assets/a2181937-a9bc-4029-b320-1759f6f16c12" />
+
+## Autores
+### Manuela Arango, Maria Paula Gasca, Maksim Nagi
+Taller 2 Introducción a la programación  — Universidad de La Sabana, 2025.
+
+
 
