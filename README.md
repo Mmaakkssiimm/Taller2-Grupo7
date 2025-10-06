@@ -4,7 +4,7 @@
 Esto debido a que Mermaid solamente dejaba exportar a PNG.
 # FidelizaBot — Sistema de Fidelización
 
-FidelizaBot es un sistema de puntos y recompensas desarrollado en Python como parte del taller de Programación Orientada a Objetos.
+FidelizaBot es un sistema de puntos y recompensas desarrollado en Python.
 El proyecto aplica los principios de herencia, polimorfismo y persistencia mediante una base de datos SQLite, permitiendo registrar clientes, acumular puntos por compras, asignar niveles (Bronce, Plata, Oro) y redimir recompensas.
 
 ## Características principales
